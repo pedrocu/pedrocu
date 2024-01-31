@@ -6,7 +6,7 @@ My goal in completeing a computer science degree is to refine and expand my core
 
 
 
-## I als
+
 <!--
 **pedrocu/pedrocu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
